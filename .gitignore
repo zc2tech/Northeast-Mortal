@@ -1,0 +1,53 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+*.so
+
+# Conda
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Docker
+.dockerignore
+
+# Logs
+*.log
+logs/
+
+# Compiled docs
+docs/book/
+
+# Environment variables
+.env
+.env.*
+
+# Model weights
+*.pth

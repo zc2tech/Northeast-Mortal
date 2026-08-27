@@ -1,0 +1,6 @@
+{
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": false,
+  "reportAttributeAccessIssue": "warning",
+  "stubPath": "./mortal"
+}
